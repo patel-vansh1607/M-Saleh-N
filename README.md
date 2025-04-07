@@ -3,3 +3,12 @@
 <h1 align="center">Saleh Nassor here</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CDB85&center=true&vCenter=true&width=435&lines=Swimmer;Full-Stack+Engineering+Student;Footballer;Hard-Working+Developer;" alt="Typing SVG" />
+
+### 🙋‍♂️ About Me
+
+- 🌱 I’m currently leaning on: **HTML, CSS, JS, SCSS, SASS, REACT, PYTHON**
+- 👯 I’m looking to collaborate on: **Open Source & Cool Web Apps**
+- 🧠 Always curious about: **UI/UX design, animations, and dev tools**
+- ⚡ Fun fact: *I make amazing projects and always committed to coding*
+
+---
