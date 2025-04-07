@@ -21,3 +21,16 @@
 </p>
 
 ---
+
+### 💻 My Dev DNA
+
+```js
+const saleh = {
+  fullStackStudent: true,
+  languages: ["JavaScript", "Python", "HTML", "CSS"],
+  frameworks: ["React", "Tailwind", "Framer Motion", "Node.js"],
+  design: ["Figma", "UX Research", "Wireframing"],
+  hobbies: ["Swimming", "Football", "Designing UIs"],
+  favQuote: "Pixels speak louder than words.",
+  currentlyBinging: "Docs, Repos, and Sports"
+}
