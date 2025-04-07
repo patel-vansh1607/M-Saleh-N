@@ -21,6 +21,9 @@
 </p>
 
 ---
+## 🚀 My Public Repositories
+
+Here are some of my featured projects on [GitHub](https://github.com/M-Saleh-N):
 
 ### 💻 My Dev DNA
 
