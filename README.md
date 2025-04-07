@@ -12,3 +12,11 @@
 - ⚡ Fun fact: *I make amazing projects and always committed to coding*
 
 ---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github,vscode" />
+</p>
+
+---
