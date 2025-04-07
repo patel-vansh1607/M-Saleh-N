@@ -6,10 +6,11 @@
 
 ### 🙋‍♂️ About Me
 
-- 🌱 I’m currently leaning on: **HTML, CSS, JS, SCSS, SASS, REACT, PYTHON**
-- 👯 I’m looking to collaborate on: **Open Source & Cool Web Apps**
-- 🧠 Always curious about: **UI/UX design, animations, and dev tools**
-- ⚡ Fun fact: *I make amazing projects and always committed to coding*
+💥 Full-stack dev student with a frontend flavor  
+🧠 Code-obsessed + UI/UX enthusiast  
+🎨 Living for clean interfaces & buttery smooth animations  
+🏊‍♂️ IRL athlete: swimmer & footballer  
+🛠️ Always building, always learning
 
 ---
 
