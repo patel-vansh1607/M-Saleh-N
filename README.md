@@ -2,7 +2,7 @@
 
 <h1 align="center">Saleh Nassor here</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c65b95&center=true&vCenter=true&width=435&lines=Swimmer;Full-Stack+Engineering+Student;Footballer;Hard-Working+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C65B95&center=true&vCenter=true&width=435&lines=Swimmer;Full-Stack+Engineering+Student;Footballer;Hard-Working+Developer;" alt="Typing SVG" />
 
 ### 🙋‍♂️ About Me
 
